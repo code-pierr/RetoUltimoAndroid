@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MaterialDesign" parent="android:Theme.Material">
+        <item name="android:windowBackground">@android:color/background_light</item>
+        <item name="android:textColor">@color/primaryText</item>
+        <item name="android:colorPrimaryDark">@color/primaryColorDark</item>
+        <item name="android:colorPrimary">@color/primaryColor</item>
+        <item name="android:navigationBarColor">@color/primaryColorDark</item>
+    </style>
+</resources>
